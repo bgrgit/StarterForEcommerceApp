@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CashKaroDemoApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">783501458523866</string>
+    <string name="fb_login_protocol_scheme">fb783501458523866</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="login_with_facebook">Login with facebook</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login">Login</string>
+
+    <string name="login_with_skip">Skip</string>
+
+    <string name="title_activity_store_selector">StoreSelectorActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="show_cashback_rates">Show cashback rates</string>
+
+</resources>

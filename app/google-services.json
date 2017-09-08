@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839988182740",
+    "firebase_url": "https://cashkarodemoapp.firebaseio.com",
+    "project_id": "cashkarodemoapp",
+    "storage_bucket": "cashkarodemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839988182740:android:d5c9a3f4819208eb",
+        "android_client_info": {
+          "package_name": "com.cashkarodemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839988182740-8hbd2vdbvh6ej0mdmpvleqsd6pc0fgil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cashkarodemoapp",
+            "certificate_hash": "ed72c8ef5bdd86b7344c4fd70b887f937f0a0920"
+          }
+        },
+        {
+          "client_id": "839988182740-51p8hgcbs85g67lhdv4gt4f2b4q8bf3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVPtvaTfNgt-xkWeDKXYTPUoNKQD6Bq-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839988182740-51p8hgcbs85g67lhdv4gt4f2b4q8bf3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

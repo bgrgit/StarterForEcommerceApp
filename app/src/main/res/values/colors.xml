@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fb_color">#3b5998</color>
+    <color name="com_google_red">#db3236</color>
+<color name="light_grey">#DCDCDC</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
