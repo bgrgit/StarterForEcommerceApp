@@ -3,6 +3,7 @@ apply plugin: 'com.google.gms.google-services'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
+    sourceSets.main.jni.srcDirs = []
     defaultConfig {
         applicationId "com.cashkarodemoapp"
         minSdkVersion 23
