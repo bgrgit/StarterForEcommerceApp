@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="carouselview-0.1.4">
     <CLASSES>
-      <root url="file://C:/Android/.android/build-cache/d4089567135249b998255f787122fcf9d9051a71/output/res" />
-      <root url="jar://C:/Android/.android/build-cache/d4089567135249b998255f787122fcf9d9051a71/output/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.synnapps/carouselview/0.1.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.synnapps/carouselview/0.1.4/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
