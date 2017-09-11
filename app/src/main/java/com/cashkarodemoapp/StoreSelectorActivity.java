@@ -47,6 +47,7 @@ public class StoreSelectorActivity extends AppCompatActivity implements View.OnC
         mGetCodeBtn.setOnClickListener(this);
         Bundle bundle = getIntent().getExtras();
         mPosition = bundle.getInt("position");
+
         setupToolbar();
         //Get the bundle
         setScreenRetailerDetails();
